@@ -1,4 +1,6 @@
 ## Computer Security Lab at POSTECH
+<img width="4200" height="700" alt="image" src="https://github.com/user-attachments/assets/93814747-3bf3-4888-bbe6-32cf49e38796" />
+
 > "Practical cyber-physical security: We hack, we patch, we secure real-world systems."
 
 Our research group focuses on addressing cybersecurity challenges across diverse interdisciplinary domains.
